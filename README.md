@@ -1,2 +1,2 @@
 # svgs
-Hosted SVGs
+Hosted SVGs and icons.
